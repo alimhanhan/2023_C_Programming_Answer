@@ -1,0 +1,18 @@
+﻿  122p 7번.c
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(5,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(5,9): message : consider using '%zd' in the format string
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(6,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(6,9): message : consider using '%zd' in the format string
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(7,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(7,9): message : consider using '%zd' in the format string
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(8,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(8,9): message : consider using '%zd' in the format string
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(9,9): message : consider using '%zd' in the format string
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(10,9): message : consider using '%zd' in the format string
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(11,9): message : consider using '%zd' in the format string
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\122p 7번.c(12,9): message : consider using '%zd' in the format string
+  누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7.vcxproj -> C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7\x64\Debug\누구나 쉽게 즐기는 C 언어 콘서트_3장 Programming_7.exe
