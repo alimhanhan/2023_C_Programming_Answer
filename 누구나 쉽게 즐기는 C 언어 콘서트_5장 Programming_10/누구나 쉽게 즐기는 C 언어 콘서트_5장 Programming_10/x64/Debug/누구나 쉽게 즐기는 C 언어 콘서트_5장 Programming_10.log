@@ -1,0 +1,6 @@
+﻿  203p 10번.c
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_5장 Programming_10\누구나 쉽게 즐기는 C 언어 콘서트_5장 Programming_10\203p 10번.c(8,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_5장 Programming_10\누구나 쉽게 즐기는 C 언어 콘서트_5장 Programming_10\203p 10번.c(8,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_5장 Programming_10\누구나 쉽게 즐기는 C 언어 콘서트_5장 Programming_10\203p 10번.c(8,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_5장 Programming_10\누구나 쉽게 즐기는 C 언어 콘서트_5장 Programming_10\203p 10번.c(8,10): message : this argument is used as a buffer size
+  누구나 쉽게 즐기는 C 언어 콘서트_5장 Programming_10.vcxproj -> C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_5장 Programming_10\x64\Debug\누구나 쉽게 즐기는 C 언어 콘서트_5장 Programming_10.exe
