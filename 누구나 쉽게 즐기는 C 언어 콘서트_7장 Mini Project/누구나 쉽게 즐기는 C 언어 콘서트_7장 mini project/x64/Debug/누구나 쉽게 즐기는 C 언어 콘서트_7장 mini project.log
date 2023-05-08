@@ -1,0 +1,4 @@
+﻿  285p mini project.c
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_7장 mini project\누구나 쉽게 즐기는 C 언어 콘서트_7장 mini project\285p mini project.c(6,10): warning C4101: 'B': unreferenced local variable
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_7장 mini project\누구나 쉽게 즐기는 C 언어 콘서트_7장 mini project\285p mini project.c(6,7): warning C4101: 'A': unreferenced local variable
+  누구나 쉽게 즐기는 C 언어 콘서트_7장 mini project.vcxproj -> C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_7장 mini project\x64\Debug\누구나 쉽게 즐기는 C 언어 콘서트_7장 mini project.exe
