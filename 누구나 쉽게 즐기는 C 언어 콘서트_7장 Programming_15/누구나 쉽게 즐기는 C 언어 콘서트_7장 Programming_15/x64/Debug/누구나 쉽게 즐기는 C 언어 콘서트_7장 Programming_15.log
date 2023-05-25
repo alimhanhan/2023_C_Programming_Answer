@@ -1,0 +1,4 @@
+﻿  294p 15번.c
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_7장 Programming_15\누구나 쉽게 즐기는 C 언어 콘서트_7장 Programming_15\294p 15번.c(10,11): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_7장 Programming_15\누구나 쉽게 즐기는 C 언어 콘서트_7장 Programming_15\294p 15번.c(18,5): warning C4013: '_getch' undefined; assuming extern returning int
+  누구나 쉽게 즐기는 C 언어 콘서트_7장 Programming_15.vcxproj -> C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_7장 Programming_15\x64\Debug\누구나 쉽게 즐기는 C 언어 콘서트_7장 Programming_15.exe
