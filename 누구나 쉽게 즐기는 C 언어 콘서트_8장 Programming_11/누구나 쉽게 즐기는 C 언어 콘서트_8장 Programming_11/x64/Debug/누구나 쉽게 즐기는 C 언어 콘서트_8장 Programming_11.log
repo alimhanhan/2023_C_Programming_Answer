@@ -1,0 +1,6 @@
+﻿  338p 11번.c
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_8장 Programming_11\누구나 쉽게 즐기는 C 언어 콘서트_8장 Programming_11\338p 11번.c(43,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_8장 Programming_11\누구나 쉽게 즐기는 C 언어 콘서트_8장 Programming_11\338p 11번.c(43,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_8장 Programming_11\누구나 쉽게 즐기는 C 언어 콘서트_8장 Programming_11\338p 11번.c(43,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_8장 Programming_11\누구나 쉽게 즐기는 C 언어 콘서트_8장 Programming_11\338p 11번.c(43,11): message : this argument is used as a buffer size
+  누구나 쉽게 즐기는 C 언어 콘서트_8장 Programming_11.vcxproj -> C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_8장 Programming_11\x64\Debug\누구나 쉽게 즐기는 C 언어 콘서트_8장 Programming_11.exe
