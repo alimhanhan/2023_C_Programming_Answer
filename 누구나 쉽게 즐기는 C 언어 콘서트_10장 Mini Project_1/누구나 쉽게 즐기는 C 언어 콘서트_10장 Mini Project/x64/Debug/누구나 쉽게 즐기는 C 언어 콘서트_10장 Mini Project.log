@@ -1,0 +1,4 @@
+﻿  409p Mini Project.c
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_10장 Mini Project_1\누구나 쉽게 즐기는 C 언어 콘서트_10장 Mini Project\409p Mini Project.c(29,19): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_10장 Mini Project_1\누구나 쉽게 즐기는 C 언어 콘서트_10장 Mini Project\409p Mini Project.c(16,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  누구나 쉽게 즐기는 C 언어 콘서트_10장 Mini Project.vcxproj -> C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_10장 Mini Project_1\x64\Debug\누구나 쉽게 즐기는 C 언어 콘서트_10장 Mini Project.exe
