@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (누구나 쉽게 즐기는 C 언어 콘서트_10장 Mini Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  451p Mini Project.c
+  누구나 쉽게 즐기는 C 언어 콘서트_10장 Mini Project.vcxproj -> C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_문풀\누구나 쉽게 즐기는 C 언어 콘서트_11장 Mini Project\x64\Debug\누구나 쉽게 즐기는 C 언어 콘서트_11장 Mini Project.exe
